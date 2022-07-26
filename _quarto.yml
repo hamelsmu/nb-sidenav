@@ -8,7 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - file.htm.ipynb
+      - file.name.ipynb
 format:
   html:
     theme: cosmo
