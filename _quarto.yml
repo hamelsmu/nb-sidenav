@@ -3,10 +3,9 @@ project:
 
 website:
   title: "nbnav"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
+  sidebar:
+    contents:
+      - index.qmd
       - about.qmd
       - file.name.ipynb
 format:
