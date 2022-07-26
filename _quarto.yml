@@ -8,6 +8,11 @@ website:
       - index.qmd
       - about.qmd
       - file.name.ipynb
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - file.name.ipynb
 format:
   html:
     theme: cosmo

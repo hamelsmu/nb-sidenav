@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbnav",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "file.name.html",
+    "href": "file.name.html",
+    "title": "Hello",
+    "section": "",
+    "text": "1 + 1\n\n2"
+  },
+  {
+    "objectID": "file.name.html#section-1",
+    "href": "file.name.html#section-1",
+    "title": "Hello",
+    "section": "Section 1",
+    "text": "Section 1\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Suspendisse sapien massa, facilisis a dictum accumsan, vehicula eget leo. Sed sit amet elit risus. Fusce elementum sem id nunc dictum laoreet. Vestibulum sed luctus nisl. Sed sit amet felis tempor, consequat enim in, rutrum felis. Sed placerat interdum sagittis. Sed at nisi velit. Sed vulputate vestibulum felis aliquet laoreet. Curabitur sit amet arcu vitae sapien tincidunt commodo. Vivamus malesuada ipsum augue, eget maximus dolor feugiat quis. Donec id auctor sem. Donec at venenatis nulla, sit amet aliquet eros. Aenean tristique tristique ipsum dignissim aliquam. Praesent dapibus lectus vel purus eleifend dapibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  }
+]
